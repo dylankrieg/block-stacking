@@ -1,0 +1,12 @@
+./controllers/__pycache__
+./controllers/__pycache__
+./controllers/domain.pddl
+./controllers/problem.pddl
+./controllers/sas_plan
+./.ipynb_checkpoints
+./.vscode
+./controllers/.idea
+./controllers/.ipynb_checkpoints
+./controllers/.vscode
+./controllers/__pycache__
+./controllers/domain.pddl
