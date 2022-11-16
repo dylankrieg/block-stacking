@@ -1,0 +1,3 @@
+import testFile
+testFile.testFunc()
+

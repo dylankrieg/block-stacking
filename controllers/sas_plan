@@ -1,0 +1,6 @@
+(move blocka blockb locb)
+(move blockb blockc blocka)
+(move blockc loca locc)
+(move blockb blocka blockc)
+(move blocka locb blockb)
+; cost = 5 (unit cost)

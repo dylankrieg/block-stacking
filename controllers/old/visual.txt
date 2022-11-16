@@ -1,0 +1,11 @@
+Init:
+A         A
+B         B
+C         C
+locA locB locC
+
+
+           A
+B     B    B
+C     A    C 
+locA locB locC
